@@ -26,7 +26,7 @@ zola386_menu = [
   {path="", name="Home"},
   {path="categories", name="Categories"},
   {path="tags", name="Token"},
-  {path="about", name="Oracle"},
+  {path="about", name="Careers"},
 ]
 
 ### THIRD PARTY
