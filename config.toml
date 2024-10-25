@@ -2,7 +2,7 @@ base_url = "https://rnd-zola.vercel.app/"
 # theme = "zola.386"
 
 default_language = "en"
-title = "404 Dynamics"
+title = "SamAltBot"
 description = "Saving Tomorrow's internet, Today."
 
 highlight_code = true
@@ -17,16 +17,16 @@ taxonomies = [
 
 
 [extra]
-author = "Beachbum"
-year = "2024"
+author = "SamAltBot"
+year = "1986"
 
 keywords = "zola, theme, retro, hacking"
 theme_color = "#000084"
 zola386_menu = [
   {path="", name="Home"},
   {path="categories", name="Categories"},
-  {path="tags", name="Projects"},
-  {path="about", name="About"},
+  {path="tags", name="Token"},
+  {path="about", name="Oracle"},
 ]
 
 ### THIRD PARTY
