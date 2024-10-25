@@ -2,7 +2,7 @@ base_url = "https://rnd-zola.vercel.app/"
 # theme = "zola.386"
 
 default_language = "en"
-title = "SamAltBot"
+title = "Sam AltBot"
 description = "Saving Tomorrow's internet, Today."
 
 highlight_code = true
